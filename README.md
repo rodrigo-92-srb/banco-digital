@@ -1,7 +1,7 @@
 # Banco Digital 💰💻
 Banco digital aplicando conceitos básicos de orientação a Objetos em Java.
 
-Aplicação de um banco digital criada em Java utilizando os conceitos dos pilares da orientação a objetos: 
+Projeto de um banco digital criado em Java utilizando os conceitos dos pilares da orientação a objetos: 
 
 + Abstração
 + Encapsulamento
