@@ -1,4 +1,4 @@
-package Default;
+package com.appbanco;
 
 public class Banco {
     private String nome;
